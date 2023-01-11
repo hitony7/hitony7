@@ -1,19 +1,24 @@
-<div  align="center">
-  
 
-# 💫 About Me:
-I'm a fullstack developer, trying to make cool things.
-## 🌱 I’m currently learning
-Refreshing my web dev skills.  
-Web3
-Ethereum Smart Contracts 
-   
 
-  
-## 🌐 Socials:
+# Hey it's me, Tony 👋:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-2A67BC?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tonywong7/)
 [![Website Badge](https://img.shields.io/badge/Website-.dev-%23181FCA?style=for-the-badge)]() 
+<br>
+</br>
+I'm a fullstack developer, trying to make cool things.
+## 🌱 I’m currently learning
+- Refreshing my web dev skills.  
+- Web3
+- Ethereum Smart Contracts 
 
+<p align="center">
+
+</p>
+
+
+
+<div  align="center">
+  
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
