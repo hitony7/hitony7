@@ -2,7 +2,7 @@
 
 # Hey it's me, Tony 👋:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-2A67BC?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tonywong7/)
-[![Website Badge](https://img.shields.io/badge/Website-.dev-%23181FCA?style=for-the-badge)]() 
+[![Website Badge](https://img.shields.io/badge/Website-.dev-%23181FCA?style=for-the-badge)](https://tonywong.live/) 
 <br>
 </br>
 I'm a fullstack developer, trying to make cool things.
